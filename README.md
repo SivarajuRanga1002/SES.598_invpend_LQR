@@ -11,3 +11,7 @@
  
  ### Plot
  ![alt txt](plot.png "Plot 1")
+
+
+Cost matrix Q proiratized penalization of state variable errors.
+R penalizes effort from control input.
